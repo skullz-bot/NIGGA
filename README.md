@@ -1,4 +1,5 @@
-<img https://media.tenor.com/fTKfFMOURxQAAAAM/bleach-bleach-anime.gif
+<img ![image](https://github.com/user-attachments/assets/44d2c783-d88f-4102-b7fa-a9716b9459e8)
+
 # NIGGA<h1 align="center">Hi 👋, I'm Mohammed Abdul Hameed</h1>
 <h3 align="center">A passionate frontend developer from Hyderabad India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
